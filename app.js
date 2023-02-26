@@ -47,4 +47,14 @@ btns.forEach(function(btn){
 // 2. look for the parent elements of the question-btn which were div class of
 // question-title and article class of question.
 
+// I CAN LOOK FOR CHILDREN AND SYBLINGSBUT IN THIS CASE I LOOK FOR THE 
+// PARENT ELEMENT
+
+
+// SUMMARY DOWN BELOW OF WHAT I DID
+// i wanted to look for the parent to put my show-text class and
+// only show up when i clicked the plus button to show the question text.
+// that is why i used parent element 2 times 
+// to find the parent element in order for the show-text class to show up 
+
 
